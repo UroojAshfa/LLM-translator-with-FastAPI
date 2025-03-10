@@ -1,5 +1,5 @@
 import os
-from langchain_groq import Chatgroq
+from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage, SystemMessage
 import streamlit as st
 from langchain_community.llms import Ollama
