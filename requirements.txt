@@ -1,0 +1,7 @@
+fastapi
+langchain_community
+langchain_groq
+langserve
+streamlit
+uvicorn
+sse-starlette
