@@ -47,7 +47,7 @@ Ensure you have Python installed on your system. You will also need a Groq API k
 ### Start the FastAPI Server
 
 ```sh
-python server.py
+python serve.py
 ```
 
 ### Start the Streamlit Frontend
